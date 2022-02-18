@@ -1,15 +1,18 @@
-### Hi there 👋
+ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-- 🔭 I'm Kevin Adu-Poku, a Software Engineer aiming to speciaize in Front End Web Development.
+## 🚀 About Me
 
-- 🌱 I’m currently running through The Odin Project and focusing on improving my understanding of Node.js
+🔭 I'm Kevin Adu-Poku, a Software Engineer aiming to speciaize in Front End Web Development.
 
-- 👯 I’m looking to gain experience working on OSS projects and I hope to be a valuable contributor to projects.
+👨‍💻 I’m currently running through The Odin Project and focusing on improving my understanding of Node.js
 
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+🗣 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **public speaking**, **weight-lifting**, **reading**, and **boxing** to some fun ones like **playing smash**.
+
+📚 I also love reading books on **personal development** & **philosophy**. My favorite ones are **Meditations** by _Marcus Aurelius_ in the genre of stoic philosphy and **Mastery** by _Robert Glover_ in the genre of personal development.
+
+✈️ I love **traveling** too. I have been on trips to **Aruba** in _2021_ and to **Sicily, Italy** in _2022_.
+
+
 <!--
 **kaokien/kaokien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

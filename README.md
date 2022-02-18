@@ -6,7 +6,7 @@
 
 👨‍💻 I’m currently running through The Odin Project and focusing on improving my understanding of Node.js
 
-🗣 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **public speaking**, **weight-lifting**, **reading**, and **boxing** to some fun ones like **hiking**.
+🗣 Outside the world of tech I enjoy pushing myself to develop new skills. My hobbies range from **public speaking**, **weight-lifting**, **reading**, and **boxing** to some fun ones like **hiking**.
 
 📚 I also love reading books on **personal development** & **philosophy**. My favorite ones are **Meditations** by _Marcus Aurelius_ in the genre of stoic philosphy and **Mastery** by _Robert Glover_ in the genre of personal development.
 

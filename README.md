@@ -13,7 +13,7 @@
 ✈️ I love **traveling** too. I have been on trips to **Aruba** in _2021_ and to **Sicily, Italy** in _2022_.
 
 
-<h2 align=center>## 💻 Tech</h2>
+<h2 align=center> 💻 Tech</h2>
 
 <br>
 <p align=center>

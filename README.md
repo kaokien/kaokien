@@ -12,6 +12,25 @@
 
 ✈️ I love **traveling** too. I have been on trips to **Aruba** in _2021_ and to **Sicily, Italy** in _2022_.
 
+## 💻 Tech
+
+<br>
+<p align=center>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"
+        width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5"
+        width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+        width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"
+        width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
+        width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
+        alt="postgresql" width="40" height="40" />
+    <br>
+    <br>
+</p>
 
 <!--
 **kaokien/kaokien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

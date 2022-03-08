@@ -14,7 +14,7 @@
 
 
 
-## 💻 Technologies & Tools  
+<!-- ## 💻 Technologies & Tools  
 
 <table>
   <tr>
@@ -166,6 +166,7 @@
     </td>
   </tr>
 </table>
+--> 
 
 ## 📈 Stats
 

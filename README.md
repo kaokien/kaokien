@@ -172,13 +172,8 @@
 
 ## 📈 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaokien&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kaokien&show_icons=true&theme=react&&hide_border=true"
-/>
+| <a href="https://github.com/kaokien/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaokien&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/kaokien/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaokien&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <!--
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=kaokien&&theme=react&&hide_border=true"

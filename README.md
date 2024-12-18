@@ -12,7 +12,7 @@
 
 📚 I also love reading books on **personal development** & **philosophy**. My favorite ones are **Meditations** by _Marcus Aurelius_ in the genre of stoic philosphy and **Mastery** by _Robert Glover_ in the genre of personal development.
 
-✈️ I love **traveling** too. I have been on trips to **Aruba** in _2021_ and to **Sicily, Italy** in _2022_.
+✈️ I love **traveling** too. I have been on trips to **Aruba** in _2021_ and to **Sicily, Italy** in _2022_ **Spain** in _2023_ **Ireland** in _2024_ and more to come.
 
 
 

@@ -10,9 +10,9 @@
 
 🗣 Outside the world of tech I enjoy pushing myself to develop new skills. My hobbies range from **public speaking**, **weight-lifting**, **reading**, and **boxing** to some fun ones like **hiking**.
 
-📚 I also love reading books on **personal development** & **philosophy**. My favorite ones are **Meditations** by _Marcus Aurelius_ in the genre of stoic philosphy and **Mastery** by _Robert Glover_ in the genre of personal development.
+📚 I enjoy reading books on personal development and philosophy. My favorites include "Meditations" by Marcus Aurelius, a classic in Stoic philosophy, and "Mastery" by Robert Glover, a standout in personal development.
 
-✈️ I love **traveling** too. I have been on trips to **Aruba** in _2021_ and to **Sicily, Italy** in _2022_ **Spain** in _2023_ **Ireland** in _2024_ and more to come.
+✈️ I am passionate about traveling as well. I have taken trips to Aruba in 2021, Sicily, Italy in 2022, Spain in 2023, and Ireland in 2024, with more adventures planned for the future.
 
 
 

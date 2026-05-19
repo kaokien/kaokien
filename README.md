@@ -4,10 +4,6 @@
 
 ## 🚀 About Me
 
-🔭 I'm Kevin Adu-Poku, a Software Engineer aiming to speciaize in Front End Web Development.
-
-👨‍💻 I’m currently running through The Odin Project and focusing on improving my understanding of Node.js
-
 🗣 Outside the world of tech I enjoy pushing myself to develop new skills. My hobbies range from **public speaking**, **weight-lifting**, **reading**, and **boxing** to some fun ones like **hiking**.
 
 📚 I enjoy reading books on personal development and philosophy. My favorites include "Meditations" by Marcus Aurelius, a classic in Stoic philosophy, and "Mastery" by Robert Glover, a standout in personal development.
